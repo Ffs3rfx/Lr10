@@ -100,7 +100,7 @@ body {
 
 
 .section-food {
-    background-image: url('img/22.png');
+    background-image: url('22.png');
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -151,7 +151,7 @@ body {
 
         /* Третія секція */
 .section-ingredients {
-    background-image: url('img/3.jpg');
+    background-image: url('3.jpg');
     background-size: cover;
     background-position: center;
     height: 37.5rem;
@@ -207,7 +207,7 @@ body {
 
 
 .menu-section {
-    background-image: url('img/22.png');
+    background-image: url('22.png');
     display: flex;
     padding: 2.5rem;
     text-align: center;
@@ -271,7 +271,7 @@ body {
 
     /* П'ята секція */
 .section-ingredients2 {
-    background-image: url('img/1.jpg');
+    background-image: url('1.jpg');
     background-size: cover;
     background-position: center;
     height: 37.5rem;
