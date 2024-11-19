@@ -6,7 +6,7 @@ body {
 
 /* Перша секція */
 .hero {
-    background-image: url('img/11.jpg');
+    background-image: url('11.jpg');
     background-size: cover;
     background-position: center;
     height: 100%;
